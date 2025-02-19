@@ -224,3 +224,4 @@ From [safe-contracts](https://github.com/safe-global/safe-contracts/blob/main/do
 
 ### Fallback handler related
 - `GS400`: `Fallback handler cannot be set to self`
+This project is a demonstration of blockchain technology and smart contract integration.
